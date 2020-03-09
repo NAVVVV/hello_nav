@@ -1,3 +1,2 @@
 # hello_nav
-"change the world"
-"nice"
+"this is for tutorial purpose.
